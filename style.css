@@ -1,0 +1,20 @@
+body{
+    background-color:whitesmoke;
+    font-size: 20px;
+}
+
+p{
+font-family: cursive, fantasy;
+} 
+
+.imgM{
+    width: 150px;
+}
+
+.imgP{
+    width: 180px;
+}
+
+.imgG{
+    width: 120px;
+}
