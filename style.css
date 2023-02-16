@@ -1,6 +1,6 @@
 body{
     background-color:whitesmoke;
-    font-size: 20px;
+    font-size: 23px;
 }
 
 p{
@@ -8,13 +8,19 @@ font-family: cursive, fantasy;
 } 
 
 .imgM{
-    width: 150px;
-}
-
-.imgP{
     width: 180px;
 }
 
+.imgP{
+    width: 210px;
+    height: 280px;
+}
+
 .imgG{
-    width: 120px;
+    width: 150px;
+    height: 270px;
+}
+
+.paragrafo{
+    width: 1200px
 }
